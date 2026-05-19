@@ -4,7 +4,7 @@ export const projects = [
   {
     id: "bot-defender",
     title: "Bot Defender: Real-Time ML Traffic Classifier",
-    thumbnail: images.botDefenderThumb,
+    thumbnail: images.botDefender,
     tech: [
       "Python",
       "FastAPI",
@@ -26,7 +26,7 @@ export const projects = [
   {
     id: "insurance-premium",
     title: "Insurance Premium Prediction System",
-    thumbnail: images.insurancePremiumThumb,
+    thumbnail: images.insurancePremium,
     tech: ["Python", "FastAPI", "Docker", "Streamlit", "XGBoost"],
     description: [
       "Compared multiple regression models",
