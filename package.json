@@ -3,12 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "setup:images": "node scripts/copy-images.mjs",
-    "dev": "node scripts/copy-images.mjs && next dev",
-    "build": "node scripts/copy-images.mjs && next build",
-    "start": "next start",
-    "lint": "next lint"
-  },
+  "dev": "next dev",
+  "build": "next build",
+  "start": "next start",
+  "lint": "next lint"
+},
   "dependencies": {
     "@gsap/react": "^2.1.2",
     "@react-three/drei": "^9.117.3",
