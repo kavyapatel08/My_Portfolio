@@ -6,8 +6,8 @@
 
 A modern, futuristic portfolio built with **Next.js**, showcasing my AI/ML projects, technical skills, certifications, and experience in Generative AI and Agentic AI.
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Portfolio-00C2FF?style=for-the-badge)](YOUR_VERCEL_LINK)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](YOUR_GITHUB_REPO)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Portfolio-00C2FF?style=for-the-badge)](https://kavyapatelportfolio.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/kavyapatel08/My_Portfolio)
 
 </div>
 
