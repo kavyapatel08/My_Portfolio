@@ -4,5 +4,5 @@ export const contact = {
   linkedin: "https://www.linkedin.com/in/kavya-200o/",
   github: "https://github.com/kavyapatel08",
   resumeUrl:
-    "https://drive.google.com/file/d/1kACtHyNOCgVEHm5dNUAstRgI_4hS4oKE/view?usp=sharing",
+    "https://drive.google.com/file/d/1vbVomBswYuqVSbVhWkG8r-BGWPfECvKx/view?usp=sharing",
 } as const;
