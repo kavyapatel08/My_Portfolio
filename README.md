@@ -2,227 +2,79 @@
 
 # 🚀 Kavya Patel | AI/ML Portfolio
 
-### AI/ML Engineer • Generative AI • AI Agents • Machine Learning
+### AI/ML Engineer • Generative AI • AI Agents
 
-A modern, futuristic portfolio built with **Next.js**, showcasing my AI/ML projects, technical skills, certifications, and experience in Generative AI and Agentic AI.
+A modern portfolio showcasing my AI/ML projects, technical skills, certifications, and experience in building intelligent applications.
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Portfolio-00C2FF?style=for-the-badge)](YOUR_VERCEL_LINK)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](YOUR_GITHUB_REPO)
+[🌐 Live Demo](YOUR_VERCEL_LINK) • [💻 GitHub](YOUR_GITHUB_REPO)
 
 </div>
 
 ---
 
-# ✨ Features
+## ✨ Features
 
-- 🎨 Modern futuristic UI with 3D-inspired design
-- 🤖 AI-themed interactive animations
-- 📱 Fully responsive design
-- ⚡ Built with Next.js App Router
-- 🌌 Smooth scrolling and section transitions
-- 💼 Project showcase with GitHub & Live Demo links
-- 🧠 Technical skills categorized by domain
-- 🏆 Certifications section
-- 🎓 Education timeline
-- 📬 Contact section with social links
+- 🤖 AI-themed modern UI
+- 🚀 Responsive & fast
+- 💼 Project showcase
+- 🛠 Technical skills
+- 🎓 Education & Certifications
+- 📬 Contact section
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-## Frontend
+**Frontend:** Next.js, React, TypeScript, Tailwind CSS
 
-- ⚛️ Next.js
-- ⚛️ React
-- TypeScript
-- Tailwind CSS
-- Framer Motion
+**Animation:** Framer Motion
 
-## Styling
+**Icons:** Lucide React, React Icons
 
-- Tailwind CSS
-- CSS Animations
-- Glassmorphism UI
-- Responsive Design
-
-## Icons
-
-- Lucide React
-- React Icons
-
-## Deployment
-
-- ▲ Vercel
+**Deployment:** Vercel
 
 ---
 
-# 📂 Project Structure
+## 📂 Sections
 
-```text
-portfolio/
-│
-├── app/
-├── components/
-├── public/
-├── styles/
-├── data/
-├── scripts/
-├── lib/
-├── next.config.js
-├── tailwind.config.ts
-└── package.json
-```
+🏠 Home • 👩 About • 🎓 Education • 🛠 Skills • 💼 Experience • 🚀 Projects • 📜 Certifications • 📬 Contact
 
 ---
 
-# 📸 Portfolio Sections
+## 🚀 Featured Projects
 
-- 🏠 Home
-- 👩 About
-- 🎓 Education
-- 🛠 Skills
-- 💼 Experience
-- 🚀 Projects
-- 📜 Certifications
-- 📬 Contact
+- 🤖 Multi-Agent Research Assistant
+- 📄 Enterprise Document Intelligence Dashboard
+- 🛡 Bot Defender – ML Traffic Classifier
 
 ---
 
-# 🤖 Featured Projects
-
-### 🧠 Multi-Agent Research Assistant
-
-- LangGraph multi-agent workflow
-- RAG pipeline
-- Tavily Search
-- Groq LLM
-- FastAPI backend
-
----
-
-### 📄 Enterprise Document Intelligence Dashboard
-
-- Production-ready RAG
-- Qdrant Vector Database
-- Celery + Redis
-- Streamlit Dashboard
-
----
-
-### 🛡 Bot Defender
-
-- Machine Learning Traffic Classification
-- Random Forest
-- FastAPI
-- React Dashboard
-
----
-
-# 💻 Installation
-
-Clone the repository
+## ⚙️ Run Locally
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-```
 
-Move into the project
-
-```bash
 cd YOUR_REPO
-```
 
-Install dependencies
-
-```bash
 npm install
-```
 
-Run development server
-
-```bash
 npm run dev
 ```
 
-Build production version
-
-```bash
-npm run build
-```
-
 ---
 
-# 🌐 Deployment
+## 📫 Connect
 
-This portfolio is deployed using **Vercel**.
-
-```bash
-npm run build
-```
-
-```bash
-vercel
-```
-
----
-
-# 📈 Future Improvements
-
-- 🌙 Dark/Light mode
-- 🌍 Multi-language support
-- 🤖 AI chatbot assistant
-- 📊 Interactive project analytics
-- 🧩 More 3D animations
-- 📝 Blog section
-
----
-
-# 👩 About Me
-
-I'm **Kavya Patel**, a Final-year B.Tech Information Technology student passionate about
-
-- 🤖 Artificial Intelligence
-- 🧠 Generative AI
-- 🔗 AI Agents
-- 📚 Retrieval-Augmented Generation (RAG)
-- 🛠 Backend Development
-- 📊 Machine Learning
-- ☁ Cloud Deployment
-
-I enjoy building production-ready AI applications that solve real-world problems.
-
----
-
-# 📫 Connect With Me
-
-<p align="left">
-
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="YOUR_GITHUB">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# ⭐ If you like this project
-
-Give it a ⭐ on GitHub!
+- 💼 LinkedIn: YOUR_LINKEDIN
+- 💻 GitHub: YOUR_GITHUB
+- 📧 Email: YOUR_EMAIL
 
 ---
 
 <div align="center">
 
-Made with ❤️ by **Kavya Patel**
+⭐ If you like this project, don't forget to star the repository!
 
-Building the future with AI 🚀
+Made with ❤️ by **Kavya Patel**
 
 </div>
