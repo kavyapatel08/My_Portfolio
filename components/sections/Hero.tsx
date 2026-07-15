@@ -100,7 +100,7 @@ export function Hero() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5 }}
         >
-          <h2 className="text-lg md:text-xl font-medium text-slate-300 mb-2">Hello, I'm</h2>
+          <h2 className="text-lg md:text-xl font-medium text-slate-300 mb-2">Hello, I&apos;m</h2>
           <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold text-gradient leading-tight tracking-tight">
             Kavya Patel
           </h1>

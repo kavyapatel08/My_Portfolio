@@ -4,7 +4,7 @@ import Image from "next/image";
 import { motion, useMotionValue, useSpring, useTransform } from "framer-motion";
 import type { projects } from "@/lib/data/projects";
 
-type Project = (typeof projects)[number];
+type Project = (typeof projects)[number] & { liveUrl?: string };
 
 export function ProjectCard({ project }: { project: Project }) {
   const x = useMotionValue(0);

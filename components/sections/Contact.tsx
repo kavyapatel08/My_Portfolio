@@ -41,10 +41,10 @@ export function Contact() {
           
           <div className="max-w-xl">
             <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight text-white mb-6 leading-[1.1]">
-              Let's Build Something Great <span className="text-cyan-400">Together</span>
+              Let&apos;s Build Something Great <span className="text-cyan-400">Together</span>
             </h2>
             <p className="text-slate-400 text-lg">
-              Open to AI/ML internships, freelance opportunities, and full-time roles. I'd love to connect.
+              Open to AI/ML internships, freelance opportunities, and full-time roles. I&apos;d love to connect.
             </p>
           </div>
 
